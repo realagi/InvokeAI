@@ -1,8 +1,6 @@
-<div align="center">
 
-![project hero](https://github.com/invoke-ai/InvokeAI/assets/31807370/6e3728c7-e90e-4711-905c-3b55844ff5be)
 
-# Invoke - Professional Creative AI Tools for Visual Media
+# Invoke - Professional Creative AI Tools for Visual Media (RealAGI Flavored)
 
 #### To learn more about Invoke, or implement our Business solutions, visit [invoke.com]
 
